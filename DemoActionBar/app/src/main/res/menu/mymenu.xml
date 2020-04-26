@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_search"
+        android:icon="@drawable/search"
+        android:title="Tìm kiếm"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_refresh"
+        android:icon="@drawable/refresh"
+        android:title="Refresh"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_help"
+        android:icon="@drawable/selp"
+        android:title="Help"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/sub_activity1"
+        android:title="Activity1"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/sub_activity2"
+        android:title="Activity2"
+        app:showAsAction="never"/>
+</menu>

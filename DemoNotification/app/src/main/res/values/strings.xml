@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo Notification</string>
+    <string name="chanel_name">Testing</string>
+    <string name="chanel_description">Testing Notification Chanel</string>
+</resources>
