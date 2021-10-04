@@ -1,2 +1,2 @@
 # Demo Android Studio
-Một vài app 
+Một vài app cỏn con
