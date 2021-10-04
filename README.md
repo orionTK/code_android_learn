@@ -1,2 +1,2 @@
-# Demo-Android-Studio
-Code tự học
+# Demo Android Studio
+Một vài app 
